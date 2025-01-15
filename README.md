@@ -16,3 +16,9 @@ Templates for Docker Containers
 |SpeedTest Tracker|x|
 |Unifi Controller|x|
 |Zabbix|x|
+|Prowlarr||
+|Grafana||
+|Prompve||
+|Tautulli||
+|Prometheus||
+|Uptime Kuma||
