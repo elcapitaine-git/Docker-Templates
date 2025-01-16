@@ -1,0 +1,12 @@
+services:
+  overseerr:
+    image: sctx/overseerr:latest
+    container_name: overseerr
+    environment:
+      - LOG_LEVEL=debug
+      - TZ=Etc/UTC
+    ports:
+      - 5055:5055
+    volumes:
+      - /mnt/storage/overseerr/config:/app/config
+    restart: unless-stopped
