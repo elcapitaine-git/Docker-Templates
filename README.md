@@ -1,7 +1,7 @@
 # Docker-Templates
 Templates for Docker Containers
 <div align="left">
-<img src="https://simpleicons.org/icons/docker.svg" height="80" alt="docker logo"  />
+<img src="https://simpleicons.org/icons/docker.svg" height="80" alt="docker logo" />
 <img width="24" />
 </div>
 
